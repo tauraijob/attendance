@@ -1,0 +1,7 @@
+
+subject.batchyear,100 for saturday AM
+C101	year	  200 for saturday PM
+D201			  300 for sunday   PM
+C101B22017100 
+		  200 
+		  300
